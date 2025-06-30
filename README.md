@@ -47,4 +47,4 @@ Feel free to open a pull request or create an issue.
 ```bash
 # Fork the repository
 # Make your changes
-# Submit a pull request / 
+# Submit a pull request
